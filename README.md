@@ -1,6 +1,6 @@
 # quotes-corner-images
 
-Image hosting for @thirtydayswith Instagram automation ("Thirty Days With").
+Image hosting for @thirtydayswith_daily Instagram automation ("Thirty Days With").
 
 Folders:
 - thirty-days-with/ = active month-1 quote cards (Rumi, Gandhi, Hafiz)
